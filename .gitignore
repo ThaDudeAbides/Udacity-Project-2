@@ -81,3 +81,6 @@ app/env
 #  Node Module files
 node_modules/
 app/node_modules
+
+#  Secret key for metamask
+.secret

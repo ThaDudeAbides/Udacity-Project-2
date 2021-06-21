@@ -3,28 +3,28 @@
 
 #  Welcome
 
-Thank you for reviewing my implementation of the StarNotary smart contract.
+Thank you for reviewing my implementation of the StarNotary smart contract.  
 
 ## ERC-721 Names
 
-The name of this ERC-721 Token is: "THE Awesome Star Token"
-The symbol for this ERC-721 Token is: "AST"
+The name of this ERC-721 Token is: "THE Awesome Star Token"  
+The symbol for this ERC-721 Token is: "AST"  
 
 ## Version Information:
 
-Truffle version used:  5.3.10
-OpenZeppelin version used:  2.3
+Truffle version used:  5.3.10  
+OpenZeppelin version used:  2.3  
 
 ### Other Versions Used:
-** NOTE:  Used 'nodeenv' to apply appropriate Node.js version 10.19.0 to comply with class boilerplate code
-Node version:  10.19.0
-NPM version:  6.13.4
-Metamask version:  9.6.1
-Truffle HD Wallet version:  1.0.17
+** NOTE:  Used 'nodeenv' to apply appropriate Node.js version 10.19.0 to comply with class boilerplate code  
+Node version:  10.19.0  
+NPM version:  6.13.4  
+Metamask version:  9.6.1  
+Truffle HD Wallet version:  1.0.17  
 
 ## Deployment to Rinkeby
 
-Below are details related to the deployment of the StarNotary smart contract to the Rinkeby network.
+Below are details related to the deployment of the StarNotary smart contract to the Rinkeby network.  
 
 ### Truffle Migrate Command Line Output
 
@@ -94,9 +94,9 @@ See Contract Hash on rinkeby.etherscan.io:  https://rinkeby.etherscan.io/address
 
 ### Testing Creating Star on Rinkeby
 
-Created Star called 'test' at ID=1
-See transaction hash on rinkeby.etherscan.io:  https://rinkeby.etherscan.io/tx/0xa749b5bc8d93377f426bafc3846d7055ffbb9d31930393c7d22ab8f3fee9307f
-
-Created Star called 'asdf' at ID=2
-See transaction hash on rinkeby.etherscan.io:  https://rinkeby.etherscan.io/tx/0x3e739822a9e85326300a2629f4aed912897334a0095dc8ba840dfc7bc8adfb37
+Created Star called 'test' at ID=1  
+See transaction hash on rinkeby.etherscan.io:  https://rinkeby.etherscan.io/tx/0xa749b5bc8d93377f426bafc3846d7055ffbb9d31930393c7d22ab8f3fee9307f  
+  
+Created Star called 'asdf' at ID=2  
+See transaction hash on rinkeby.etherscan.io:  https://rinkeby.etherscan.io/tx/0x3e739822a9e85326300a2629f4aed912897334a0095dc8ba840dfc7bc8adfb37  
 
